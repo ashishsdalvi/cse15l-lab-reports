@@ -12,7 +12,8 @@
 2) 1 
 
 [Link to a fluffy dog](https://www.youtube.com/watch?v=7DKbdN8d6Rs) 
-![Image of a fluffy dog](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.vetstreet.com%2Four-pet-experts%2F7-dog-breeds-born-for-the-snow&psig=AOvVaw1zFfHr-0AGot7pBHwDFuS4&ust=1642132058937000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj_lOTorfUCFQAAAAAdAAAAABAD)
+![Image of a fluffy dog](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F02%2F18%2Fsamoyed-two-puppies-grass-201760029.jpg)
+
 This is a nice line
 ---------------
 
