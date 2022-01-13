@@ -15,3 +15,6 @@
 ![Image of a fluffy dog](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.vetstreet.com%2Four-pet-experts%2F7-dog-breeds-born-for-the-snow&psig=AOvVaw1zFfHr-0AGot7pBHwDFuS4&ust=1642132058937000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj_lOTorfUCFQAAAAAdAAAAABAD)
 This is a nice line
 ---------------
+
+
+[Link back to the homepage](https://ashishsdalvi.github.io/cse15l-lab-reports/index.html)
