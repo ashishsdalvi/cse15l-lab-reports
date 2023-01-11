@@ -1,3 +1,3 @@
 ## Hello, welcome!
 
-[Link](https://ashishsdalvi.github.io/cse15l-lab-reports/testing)
+[Testing Page](https://ashishsdalvi.github.io/cse15l-lab-reports/index)
