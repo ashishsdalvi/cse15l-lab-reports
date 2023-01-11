@@ -8,7 +8,7 @@
 
 Go to the VSCode website and download the version for your respective operating system. I already have VSCode installing on my mac but your download page should look something like this. 
 
-![VSCode](Screen Shot 2023-01-11 at 2.19.50 PM.png)
+![VSCode](https://ashishsdalvi.github.io/cse15l-lab-reports/testing/VSCode_Download.png)
 
 Once you are finished downloading, go to the next step listed below. 
 
@@ -25,7 +25,7 @@ You will then be prompted to enter a password. After entering the password, you 
 and some stats will be displayed. 
 
 Your page should look similar to this image.
-![Remote Server Output](Screen Shot 2023-01-11 at 1.49.08 PM.png)
+![Remote Server Output](https://ashishsdalvi.github.io/cse15l-lab-reports/testing/Remote_Server_Output.png)
 
 Once you are finished, try running some commands!
 
@@ -34,6 +34,6 @@ Once you are finished, try running some commands!
 Some commands you can try are ls, pwd, cd and you can add various flags to these commands as well (Ex: ls -lah)
 
 Here is some of the output from my commands. 
-![Output From Commands](Screen Shot 2023-01-11 at 1.55.20 PM.png)
+![Output From Commands](https://ashishsdalvi.github.io/cse15l-lab-reports/testing/Command_Output.png)
 
 
