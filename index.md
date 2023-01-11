@@ -1,4 +1,3 @@
 ## Hello, welcome!
 
-**Checkout some of my blog posts**
-[Blogs](https://ashishsdalvi.github.io/cse15l-lab-reports/testing)
+[Check out some of my blog posts](https://ashishsdalvi.github.io/cse15l-lab-reports/testing)
