@@ -17,7 +17,10 @@ Once you are finished downloading, go to the next step listed below.
 
 Once you are in VSCode, open up a terminal.
 
-In your terminal, type: ssh cs15lwi23zz@ieng6.ucsd.edu
+In your terminal, type: 'ssh cs15lwi23zz@ieng6.ucsd.edu'
+
+Your terminal should look similar to this picture when you ssh.
+![SSH-ing Using the Terminal](https://ashishsdalvi.github.io/cse15l-lab-reports/ssh-ing.png)
 
 Replace zz with the 3 letters corresponding to your specific CSE 15L student account. 
 This information can be found at [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php).
@@ -32,9 +35,9 @@ Once you are finished, try running some commands!
 
 **Trying Some Commands**
 
-Some commands you can try are ls, pwd, cd and you can add various flags to these commands as well (Ex: ls -lah)
+Some commands you can try are 'ls', 'pwd', 'cd' and you can add various flags to these commands as well (Ex: 'ls -lah')
 
-ls is used to display all the files and directories in your working directory, pwd outputs the path to your working directory, and cd is used to move to another directory.
+'ls' is used to display all the files and directories in your working directory, 'pwd' outputs the path to your working directory, and 'cd' is used to move to another directory.
 
 Here is some of the output from my commands. 
 ![Output From Commands](https://ashishsdalvi.github.io/cse15l-lab-reports/Command_Output.png)
