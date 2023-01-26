@@ -41,9 +41,9 @@ ls
 pwd
 cd
 ```
-You can also add various flags to these commands as well (Ex: 'ls -lah')
+You can also add various flags to these commands as well (Ex: ```ls -lah```)
 
-'ls' is used to display all the files and directories in your working directory, 'pwd' outputs the path to your working directory, and 'cd' is used to move to another directory.
+```ls``` is used to display all the files and directories in your working directory, ```pwd``` outputs the path to your working directory, and ```cd``` is used to move to another directory.
 
 Here is some of the output from my commands. 
 ![Output From Commands](https://ashishsdalvi.github.io/cse15l-lab-reports/Command_Output.png)
