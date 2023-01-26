@@ -17,7 +17,7 @@ Once you are finished downloading, go to the next step listed below.
 
 Once you are in VSCode, open up a terminal.
 
-In your terminal, type: 'ssh cs15lwi23zz@ieng6.ucsd.edu'
+In your terminal, type: ```ssh cs15lwi23zz@ieng6.ucsd.edu```
 
 Your terminal should look similar to this picture when you ssh.
 ![SSH-ing Using the Terminal](https://ashishsdalvi.github.io/cse15l-lab-reports/ssh-ing.png)
@@ -35,7 +35,13 @@ Once you are finished, try running some commands!
 
 **Trying Some Commands**
 
-Some commands you can try are 'ls', 'pwd', 'cd' and you can add various flags to these commands as well (Ex: 'ls -lah')
+The following are some commands you can try.
+```
+ls
+pwd
+cd
+```
+You can also add various flags to these commands as well (Ex: 'ls -lah')
 
 'ls' is used to display all the files and directories in your working directory, 'pwd' outputs the path to your working directory, and 'cd' is used to move to another directory.
 
