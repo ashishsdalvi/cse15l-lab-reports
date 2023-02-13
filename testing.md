@@ -6,3 +6,6 @@
 
 [Blog Post 2: Servers and Bugs](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_post_2)
 
+
+[Blog Post 3: Researching Commands](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_post_3)
+
