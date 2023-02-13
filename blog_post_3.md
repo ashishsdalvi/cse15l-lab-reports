@@ -5,7 +5,7 @@
 
 ## Researching Grep
 
-**-c flag**
+### -c flag ###
 The first option for using grep that I found was using the ```-c``` flag. This flag
 prints the count for the number of lines that match the pattern.
 
@@ -24,7 +24,7 @@ The output would look like the following:
 The following commands are useful when you only want to see the counts rather than
 the full sentence and files in which the pattern appears. 
 
-**-i flag**
+### -i flag ###
 The ```-i``` flag is useful for a case insensitive search of a pattern in a file.
 For example, the ```tree``` and ```Tree``` patterns would return the same result
 when using the ```-i``` flag. 
@@ -32,8 +32,7 @@ when using the ```-i``` flag.
 Here is an example: 
 Input: ```-grep -i "tree" written_2/travel_guides/berlitz1/WhereToJapan.txt``` 
 
-Output (shortened for visibility): 
-```pines, plum trees, canary palms, and soft green cryptomeria japonica.
+Output (shortened for visibility):  ```pines, plum trees, canary palms, and soft green cryptomeria japonica.
 Over the treetops you catch an occasional glimpse of the skyscrapers of
 good place for cheaper snacks than you’ll find in the street-level
 opened here in 1903. Before long, the streets and alleys around the
@@ -43,7 +42,7 @@ greenhouse, for its flowering cherry trees in April, and for its
 of it survive on the road east of town, where many of the 13,000 trees
 with a motifs from nature: pine and plum trees, birds of the field, and
 trees, and a cool, rushing stream. The tomb itself, a miniature bronze
-trunk of a single Judas tree...```
+trunk of a single Judas tree ```
 
 
 Here is another example but this time with the -c flag to only output counts.
@@ -56,7 +55,7 @@ The examples above demonstrate how to use the -i flag when you don't care about
 case sensitivity which may be important when you just want to check substring counts
 for example. 
 
-**-w flag**
+### -w flag ###
 The ```-w``` flag is useful for only finding words rather than just substrings. Perhaps
 you can use this when looking for specific words in a text rather than just substrings.
 
@@ -84,7 +83,7 @@ Output: ```5```
 In the example above, it turns out the word food only appears 5 times in the text. 
 
 
-**-l flag**
+### -l flag ###
 The ```-l``` flag is when you want to see the files in which the pattern appears.
 This is important for example if you were investigating where certain words of interest
 appear so you could dig deeper into files. For example, if you wanted to learn more about
@@ -115,3 +114,5 @@ containing the word "money" and outputs them.
 
 All in all, flags are powerful additions to the grep command and can make searching for patterns
 much easier. I hope you learnt something new from this post! 
+
+Sources (for all flags): https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
