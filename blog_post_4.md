@@ -12,7 +12,7 @@ What I typed:
 I typed in the command to ssh into my ieng6 remote server and pressed enter 
 to run the command. 
 
-[SSH](https://ashishsdalvi.github.io/cse15l-lab-reports/ssh_step_blog4.png)
+![SSH](https://ashishsdalvi.github.io/cse15l-lab-reports/ssh_step_blog4.png)
 
 
 ### Clone your fork of the repository from your Github account
@@ -27,7 +27,7 @@ and paste what you copied after typing git clone using ```<ctrl + v>```so it loo
 You want to run git clone in order to copy the repository onto your remote server
 
 
-[Cloning Repo](https://ashishsdalvi.github.io/cse15l-lab-reports/clone_repo_blog4.png)
+![Cloning Repo](https://ashishsdalvi.github.io/cse15l-lab-reports/clone_repo_blog4.png)
 
 ### Run the tests, demonstrating that they fail
 What I typed:
@@ -44,7 +44,7 @@ The final commands looked like this
 and 
 ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTest```
 
-[Tests Failing](https://ashishsdalvi.github.io/cse15l-lab-reports/test_fail_blog4.png)
+![Tests Failing](https://ashishsdalvi.github.io/cse15l-lab-reports/test_fail_blog4.png)
 
 ### Edit the code file to fix the failing test
 What I typed:
@@ -58,7 +58,7 @@ and pressed the ```<enter>``` key.
 The issue with the test was that instead of updating the index counter for list2
 under the list2 while loop, it was updating the counter for list1 (index1). 
 
-[Editing Tests](https://ashishsdalvi.github.io/cse15l-lab-reports/edit_code_blog4.png)
+![Editing Tests](https://ashishsdalvi.github.io/cse15l-lab-reports/edit_code_blog4.png)
 
 ### Run the tests, demonstrating that they now succeed
 What I typed:
@@ -70,7 +70,7 @@ and then ```<enter>```.
 This code is used for recompiling the files I changed and rerunning ListExamplesTests. Heres a picture
 of the output below.
 
-[Tests Passing](https://ashishsdalvi.github.io/cse15l-lab-reports/test_pass_blog4.png)
+![Tests Passing](https://ashishsdalvi.github.io/cse15l-lab-reports/test_pass_blog4.png)
 
 ### Commit and push the resulting change to your Github account (you can pick any commit message!)
 What I typed:
@@ -79,6 +79,6 @@ What I typed:
 ```git push origin main``` then ```<enter>```. which uploads the specified files and comment to my Github account.
 
 Here is an image of the process below:
-[Git Commands](https://ashishsdalvi.github.io/cse15l-lab-reports/git_stuff_blog4.png)
+![Git Commands](https://ashishsdalvi.github.io/cse15l-lab-reports/git_stuff_blog4.png)
 
 
