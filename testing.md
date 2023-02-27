@@ -9,3 +9,5 @@
 
 [Blog Post 3: Researching Commands](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_post_3)
 
+[Blog Post 4: Competition](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_post_4)
+
