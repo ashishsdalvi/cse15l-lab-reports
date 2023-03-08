@@ -34,3 +34,5 @@ This allows me to run my commands in a remote server from a script on my local c
 
 Here is a picture of Bash script #1.
 ![Script #2](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_5_script2.png)
+
+Thanks for reading this post. Hope you learnt how to use Bash to semi-automate some tasks!
