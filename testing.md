@@ -11,5 +11,5 @@
 
 [Blog Post 4: Competition](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_post_4)
 
-[Blog Post 5: Competition](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_post_5)
+[Blog Post 5: Doing Lab 4 Quicker!](https://ashishsdalvi.github.io/cse15l-lab-reports/blog_post_5)
 
